@@ -1,2 +1,7 @@
-streamlit==1.12.0
-streamlit-option-menu==0.0.5
+streamlit
+streamlit-option-menu
+pandas
+scikit-learn
+imblearn
+seaborn
+matplotlib
